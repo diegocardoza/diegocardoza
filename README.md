@@ -1,7 +1,7 @@
 
 ## 🧑‍💻 Diego Alfredo Cardoza Ojeda - Desarrollador Android Nativo
 
-
+![Banner](https://github.com/diegocardoza/diegocardoza/blob/73a226bd9030221496af920f2bccc079eb1b7e24/github_banner.jpeg)
 
 ¡Hola! Soy Diego Alfredo Cardoza Ojeda, un apasionado desarrollador Android especializado en la creación de aplicaciones nativas. Con un fuerte enfoque en la eficiencia y la arquitectura limpia, mi objetivo es desarrollar aplicaciones que no solo sean funcionales, sino también elegantes y fáciles de mantener.
 
