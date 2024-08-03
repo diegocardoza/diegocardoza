@@ -25,6 +25,7 @@
   <h5>
     Aplicacion de Rick And Morty API con Retrofit, Paging3, MVVM, Jetpack Compose, Dagger Hilt.
   </h5>
+  <a href="https://github.com/diegocardoza/RickAndMortyAPIApp">Enlace del proyecto</a>
 </div>
 
 ## 📫 Contáctame
