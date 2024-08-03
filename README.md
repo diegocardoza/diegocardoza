@@ -1,5 +1,5 @@
 
-## 🧑‍💻 Diego Alfredo Cardoza Ojeda - Desarrollador Android Nativo
+## 🧑‍💻 Desarrollador Android Nativo
 
 ![Banner](https://raw.githubusercontent.com/diegocardoza/diegocardoza/d0cae4de596f8c1f2bc97c33e3d88308a75195d9/github_banner.jpeg)
 
@@ -11,9 +11,9 @@
 - **Entorno de Desarrollo**: Android Studio, XCode
 - **Interfaz de Usuario**: XML, Jetpack Compose, SwiftUI
 - **Arquitectura**: Clean Architecture, MVVM
-- **Bases de Datos**: Room
+- **Bases de Datos**: Room, Firebase
 - **Inyección de Dependencias**: Dagger Hilt
-- **Networking**: Retrofit
+- **Networking**: Retrofit para API
 
 ## 🚀 Proyectos Destacados
 
