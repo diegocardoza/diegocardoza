@@ -17,9 +17,15 @@
 
 ## 🚀 Proyectos Destacados
 
-1. **Nombre del Proyecto 1**: Breve descripción del proyecto y las tecnologías utilizadas.
-2. **Nombre del Proyecto 2**: Breve descripción del proyecto y las tecnologías utilizadas.
-3. **Nombre del Proyecto 3**: Breve descripción del proyecto y las tecnologías utilizadas.
+<div align="center">
+  <h1 align="center">
+    1. The Rick And Morty API
+  </h1>
+  <img src="https://github.com/diegocardoza/RickAndMortyAPIApp/blob/main/MainScreen.png" width="100">
+  <h5>
+    Aplicacion de Rick And Morty API con Retrofit, Paging3, MVVM, Jetpack Compose, Dagger Hilt.
+  </h5>
+</div>
 
 ## 📫 Contáctame
 
