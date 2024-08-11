@@ -26,6 +26,16 @@
     Aplicacion de Rick And Morty API con Retrofit, Paging3, MVVM, Jetpack Compose, Dagger Hilt.
   </h5>
   <a href="https://github.com/diegocardoza/RickAndMortyAPIApp">Enlace del proyecto</a>
+
+  <h1 align="center">
+    2. Persons App
+  </h1>
+  <img src="https://github.com/diegocardoza/PersonsApp/blob/main/Docs/home_screen.png" width="100">
+  <h5>
+    Aplicacion de guardado de personas en base de datos con ROOM.
+  </h5>
+  <a href="https://github.com/diegocardoza/PersonsApp">Enlace del proyecto</a>
+  
 </div>
 
 ## 📫 Contáctame
