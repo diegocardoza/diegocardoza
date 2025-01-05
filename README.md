@@ -3,7 +3,7 @@
 
 ![Banner](https://raw.githubusercontent.com/diegocardoza/diegocardoza/d0cae4de596f8c1f2bc97c33e3d88308a75195d9/github_banner.jpeg)
 
-¡Hola! Soy Diego Alfredo Cardoza Ojeda, un apasionado desarrollador Android especializado en la creación de aplicaciones nativas. Con un fuerte enfoque en la eficiencia y la arquitectura limpia, mi objetivo es desarrollar aplicaciones que no solo sean funcionales, sino también elegantes y fáciles de mantener.
+¡Hola! Soy Diego Alfredo Cardoza Ojeda, un apasionado desarrollador Android y iOS especializado en la creación de aplicaciones nativas. Con un fuerte enfoque en la eficiencia y la arquitectura limpia, mi objetivo es desarrollar aplicaciones que no solo sean funcionales, sino también elegantes y fáciles de mantener.
 
 ## 🛠️ Habilidades
 
@@ -11,9 +11,9 @@
 - **Entorno de Desarrollo**: Android Studio, XCode
 - **Interfaz de Usuario**: XML, Jetpack Compose, SwiftUI
 - **Arquitectura**: Clean Architecture, MVVM
-- **Bases de Datos**: Room, Firebase
-- **Inyección de Dependencias**: Dagger Hilt
-- **Networking**: Retrofit para API
+- **Bases de Datos**: Room, Firebase, CoreData
+- **Inyección de Dependencias**: Dagger Hilt, Swinject
+- **Networking**: Retrofit, URLSession para API
 
 ## 🚀 Proyectos Destacados
 
