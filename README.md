@@ -1,7 +1,7 @@
 
-## 🧑‍💻 Desarrollador Android Nativo
+## 🧑‍💻 Desarrollador Android y iOS Nativo
 
-![Banner](https://raw.githubusercontent.com/diegocardoza/diegocardoza/d0cae4de596f8c1f2bc97c33e3d88308a75195d9/github_banner.jpeg)
+![Banner](https://github.com/diegocardoza/diegocardoza/blob/e5aefbebaaadc8793764a59e8ea9cd8689dec0fe/github-banner.png)
 
 ¡Hola! Soy Diego Alfredo Cardoza Ojeda, un apasionado desarrollador Android y iOS especializado en la creación de aplicaciones nativas. Con un fuerte enfoque en la eficiencia y la arquitectura limpia, mi objetivo es desarrollar aplicaciones que no solo sean funcionales, sino también elegantes y fáciles de mantener.
 
@@ -9,7 +9,7 @@
 
 - **Lenguajes de Programación**: Kotlin, Java, Swift
 - **Entorno de Desarrollo**: Android Studio, XCode
-- **Interfaz de Usuario**: XML, Jetpack Compose, SwiftUI
+- **Interfaz de Usuario**: XML, Jetpack Compose, SwiftUI, UIKit
 - **Arquitectura**: Clean Architecture, MVVM
 - **Bases de Datos**: Room, Firebase, CoreData
 - **Inyección de Dependencias**: Dagger Hilt, Swinject
