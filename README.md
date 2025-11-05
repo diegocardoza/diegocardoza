@@ -19,18 +19,31 @@
 
 <div align="center">
   <h1 align="center">
-    1. The Rick And Morty API
+    1. Quotes App for Android
   </h1>
-  <img src="https://github.com/diegocardoza/RickAndMortyAPIApp/blob/main/MainScreen.png" width="100">
+  <div align="center">
+    <img src="https://github.com/diegocardoza/Quotes/blob/master/screenshots/screenshot_1.png" width="30%" style="margin: 10px;" />
+    <img src="https://github.com/diegocardoza/Quotes/blob/master/screenshots/screenshot_2.png" width="30%" style="margin: 10px;" />
+    <img src="https://github.com/diegocardoza/Quotes/blob/master/screenshots/screenshot_3.png" width="30%" style="margin: 10px;" />
+  </div>
+  <h5>
+    Aplicación Android de frases con Clean Architecture, MVVM, Jetpack Compose, Retrofit, Room, Coroutines, Flow, Hilt y testing completo.
+  </h5>
+  <a href="https://github.com/diegocardoza/Quotes">Enlace del proyecto</a>
+  
+  <h1 align="center">
+    2. The Rick And Morty API for Android
+  </h1>
+  <img src="https://github.com/diegocardoza/RickAndMortyAPIApp/blob/main/MainScreen.png" width="30%">
   <h5>
     Aplicacion de Rick And Morty API con Retrofit, Paging3, MVVM, Jetpack Compose, Dagger Hilt.
   </h5>
   <a href="https://github.com/diegocardoza/RickAndMortyAPIApp">Enlace del proyecto</a>
 
   <h1 align="center">
-    2. Persons App
+    3. Persons App for Android
   </h1>
-  <img src="https://github.com/diegocardoza/PersonsApp/blob/main/Docs/home_screen.png" width="100">
+  <img src="https://github.com/diegocardoza/PersonsApp/blob/main/Docs/home_screen.png" width="30%">
   <h5>
     Aplicacion de guardado de personas en base de datos con ROOM.
   </h5>
